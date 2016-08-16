@@ -1,5 +1,7 @@
 
 $(function() {
+
+	// Show the schedule information
 	
 	// Date, Time, Location, Opponent
 	var schedule = [
@@ -7,8 +9,6 @@ $(function() {
 		['30 Aug', '6:00p', 'Clinton Massie?', 'Cincinnati Trailblazers'],
 		['1 Sept', '6:30p', 'Wilmington High School', 'Miami Valley Saints'],
 		['8 Sept', '6:00p', '495 Old 122 Rd, Lebanon, OH 45036', 'Emmanuel Baptist Crusaders'],
-		['9 Sept', 'UNKNOWN', '1365 Woodville Pike, Milford, OH 45150', 'Milford Tournament'],
-		['10 Sept', 'UNKNOWN', '1365 Woodville Pike, Milford, OH 45150', 'Milford Tournament'],
 		['13 Sept', '6:00p', '849 South High Street, Hillsboro OH 45133', 'Hillsboro Christian Crusaders'],
 		['16 Sept', '6:00p', '140 Elva CT Vandlia, Ohio 45371', 'Miami Valley Saints'],
 		['22 Sept', '6:00p', 'Sports Plus, 10765 Reading Road in Sharonville, 45241', 'Cincinnati Trailblazers'],
@@ -42,5 +42,27 @@ $(function() {
 		$tr.append($td);
 		
 		$('#schedule_table > tbody').append($tr);
+	}
+	
+	
+	// Practice pictures carousel
+	$("#Pictures .carousel-indicators").empty();
+	$("#Pictures .carousel-inner").empty();
+	var j, $li, $div;
+	for (j = 0; j < 33; j++) {
+		
+		// Slide reference dot
+		$li = $('<li data-target="#carousel-example-generic" data-slide-to="' + j + '"></li>');
+		if (j === 0) {
+			$li.addClass('active');
+		}
+		$("#Pictures .carousel-indicators").append($li);
+		
+		// Slide
+		$div = $('<div class="carousel-item"><img src="images/practice/small/-' + j + '" alt="Picture"></div>');
+		if (j === 0) {
+			$div.addClass('active');
+		}
+		$("#Pictures .carousel-inner").append($div);
 	}
 });
