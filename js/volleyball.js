@@ -6,7 +6,7 @@ $(function() {
 	// Date, Time, Location, Opponent
 	var schedule = [
 		['27 Aug', '9:00a', 'Sports Plus, 10765 Reading Road in Sharonville, 45241', 'Trailblazers Tournament'],
-		['30 Aug', '6:00p', 'Clinton Massie?', 'Cincinnati Trailblazers'],
+		['30 Aug', '6:00p', 'Sports Plus, 10765 Reading Road in Sharonville, 45241', 'Cincinnati Trailblazers'],
 		['1 Sept', '6:30p', 'Wilmington High School', 'Miami Valley Saints'],
 		['8 Sept', '6:00p', '495 Old 122 Rd, Lebanon, OH 45036', 'Emmanuel Baptist Crusaders'],
 		['13 Sept', '6:00p', '849 South High Street, Hillsboro OH 45133', 'Hillsboro Christian Crusaders'],
