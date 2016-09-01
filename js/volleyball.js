@@ -10,7 +10,7 @@ $(function() {
 		['1 Sept', '6:30p', 'Wilmington High School', 'Miami Valley Saints'],
 		['8 Sept', '6:00p', '495 Old 122 Rd, Lebanon, OH 45036', 'Emmanuel Baptist Crusaders'],
 		['13 Sept', '6:00p', '849 South High Street, Hillsboro OH 45133', 'Hillsboro Christian Crusaders'],
-		['16 Sept', '6:00p', '140 Elva CT Vandlia, Ohio 45371', 'Miami Valley Saints'],
+		['16 Sept', '6:00p', 'Vandalia Recreation Center, 1111 Stonequarry Rd. Dayton, OH 45414', 'Miami Valley Saints'],
 		['22 Sept', '6:00p', 'Sports Plus, 10765 Reading Road in Sharonville, 45241', 'Cincinnati Trailblazers'],
 		['23 Sept', '6:30p', 'Wilmington High School', 'Dayton Golden Angels'],
 		['30 Sept', '6:30p', 'Wilmington High School', 'Fayette Christian Crusaders'],
