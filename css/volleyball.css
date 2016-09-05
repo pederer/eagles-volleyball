@@ -2,6 +2,19 @@ body {
     padding-top: 5rem;
 }
 
-#carousel-example-generic {
-    margin: 0 10%;
+.picture-block {
+    padding: 2px;
+}
+.picture-block > img {
+    width: 100%;
+}
+#picture_graph img {
+    cursor: pointer;
+}
+
+#picture_modal > .modal-dialog {
+    max-width: 80%;
+}
+#picture_modal .carousel-control {
+    cursor: pointer;
 }

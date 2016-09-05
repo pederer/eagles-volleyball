@@ -9,7 +9,7 @@ $(function() {
 		['30 Aug', '6:00p', 'Sports Plus, 10765 Reading Road in Sharonville, 45241', 'Cincinnati Trailblazers'],
 		['1 Sept', '6:30p', 'Wilmington High School', 'Miami Valley Saints'],
 		['8 Sept', '6:00p', '495 Old 122 Rd, Lebanon, OH 45036', 'Emmanuel Baptist Crusaders'],
-		['13 Sept', '6:00p', '849 South High Street, Hillsboro OH 45133', 'Hillsboro Christian Crusaders'],
+		['13 Sept', '5:00p', 'Southern State, 100 Hobart Drive Hillsboro, OH 45133', 'Hillsboro Christian Crusaders'],
 		['16 Sept', '6:00p', 'Vandalia Recreation Center, 1111 Stonequarry Rd. Dayton, OH 45414', 'Miami Valley Saints'],
 		['22 Sept', '6:00p', 'Sports Plus, 10765 Reading Road in Sharonville, 45241', 'Cincinnati Trailblazers'],
 		['23 Sept', '6:30p', 'Wilmington High School', 'Dayton Golden Angels'],
@@ -42,27 +42,5 @@ $(function() {
 		$tr.append($td);
 		
 		$('#schedule_table > tbody').append($tr);
-	}
-	
-	
-	// Practice pictures carousel
-	$("#Pictures .carousel-indicators").empty();
-	$("#Pictures .carousel-inner").empty();
-	var j, $li, $div;
-	for (j = 0; j < 33; j++) {
-		
-		// Slide reference dot
-		$li = $('<li data-target="#carousel-example-generic" data-slide-to="' + j + '"></li>');
-		if (j === 0) {
-			$li.addClass('active');
-		}
-		$("#Pictures .carousel-indicators").append($li);
-		
-		// Slide
-		$div = $('<div class="carousel-item"><img src="images/practice/small/-' + j + '" alt="Picture"></div>');
-		if (j === 0) {
-			$div.addClass('active');
-		}
-		$("#Pictures .carousel-inner").append($div);
 	}
 });
