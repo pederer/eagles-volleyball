@@ -13,7 +13,7 @@ $(function() {
 		['5 Sept', '6:30p', 'Wilmington High School', 'Dayton Golden Angels'],
 		['8 Sept', '6:30p', 'Wilmington High School', 'Liberty Bible Academy Patriots'],
 		['15 Sept', '6:00p', 'Vandalia Recreation Center, 1111 Stonequarry Rd. Dayton, OH 45414', 'Miami Valley Saints'],
-		['21 Sept', '6:00p', 'Wilmington High School', 'Cincinnati Trailblazers'],
+		['21 Sept', '6:30p', 'Wilmington High School', 'Cincinnati Trailblazers'],
 		['26 Sept', '5:00p', '1315 Dayton Ave NW, Washington Ct Hs, OH 43160', 'Fayette Christian Crusaders'],
 		['2 Oct', '6:00p', '4900 Old Irwin Simpson Rd, Mason, OH 45040', 'Liberty Bible Academy Patriots'],
 		['3 Oct', '7:15p', 'Wilmington High School', 'Hillsboro Christian Crusaders'],
