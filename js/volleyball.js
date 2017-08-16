@@ -5,7 +5,7 @@ $(function() {
 	
 	// Date, Time, Location, Opponent
 	var schedule = [
-		['18 Aug', '4:30p', '(JV Only) 1365 Woodville Pike, Milford, OH 45150', 'Milford Christian Bulldogs'],
+		['18 Aug', '4:30p', '(JV Only) Milford Christian Academy, 1365 Woodville Pike, Milford, OH 45150', 'Milford Christian Bulldogs'],
 		['22 Aug', '5:30p', 'Hillsboro Christian Academy, 849 South High St. Hillsboro, OH 45133', 'Hillsboro Christian Crusaders'],
 		['26 Aug', '9:00a', 'Sports Plus, 10765 Reading Road in Sharonville, 45241', 'Trailblazers Tournament'],
 		['29 Aug', '6:30p', 'Wilmington High School', 'Fayette Christian Crusaders'],
