@@ -15,11 +15,11 @@ $(function() {
 		['15 Sept', '6:00p', 'Vandalia Recreation Center, 1111 Stonequarry Rd. Dayton, OH 45414', 'Miami Valley Saints'],
 		['21 Sept', '6:30p', 'Wilmington High School', 'Cincinnati Trailblazers'],
 		['26 Sept', '5:00p', '1315 Dayton Ave NW, Washington Ct Hs, OH 43160', 'Fayette Christian Crusaders'],
-		['2 Oct', '6:00p', 'Emmanuel Baptist Academy, 495 Old State Route 122 Lebanon, OH 45036', 'Liberty Bible Academy Patriots'],
+		['2 Oct', '5:30p', '(JV Only) Emmanuel Baptist Church, 495 Old State Route 122 Lebanon, OH 45036', 'Liberty Bible Academy & Calvary Academy'],
 		['3 Oct', '7:15p', 'Wilmington High School', 'Hillsboro Christian Crusaders'],
 		['10 Oct', '5:00p', '3655 E. Patterson Rd, Beavercreek, OH 45430', 'Dayton Golden Angels'],
 		['13 Oct', '6:30p', 'Wilmington High School', 'Miami Valley Saints'],
-		['21 Oct', '?:??', 'Hillsboro Christian Academy, 849 South High St. Hillsboro, OH 45133', 'Hillsboro Tournament']
+		['21 Oct', '9:00a', 'Hillsboro Christian Academy, 849 South High St. Hillsboro, OH 45133', 'Hillsboro Tournament']
 	];
 	// var schedule = [
 	// 	['27 Aug', '9:00a', 'Sports Plus, 10765 Reading Road in Sharonville, 45241', 'Trailblazers Tournament'],
