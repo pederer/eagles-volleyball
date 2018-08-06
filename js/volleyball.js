@@ -12,7 +12,7 @@ $(function() {
 		['30 Aug', '6:30p', '(Varsity Only) Wilmington High School', 'Milford Christian Bulldogs'],
 		['6 Sept', '6:30p', 'Wilmington High School', 'Fayette Christian Crusaders'],
 		['7 Sept', '??:??', '(Varsity Only) Milford Christian Academy, 1365 Woodville Pike, Milford, OH 45150', 'Milford Tournament'],
-		['7 Sept', '??:??', '(Varsity Only) Milford Christian Academy, 1365 Woodville Pike, Milford, OH 45150', 'Milford Tournament'],
+		['8 Sept', '??:??', '(Varsity Only) Milford Christian Academy, 1365 Woodville Pike, Milford, OH 45150', 'Milford Tournament'],
 		['11 Sept', '5:30p', 'Hillsboro Christian Academy, 849 South High St. Hillsboro, OH 45133', 'Hillsboro Christian Crusaders'],
 	 	['14 Sept', '6:00p', '(Varsity Only) Emmanuel Baptist Church, 495 Old 122 Rd, Lebanon, OH 45036', 'Emmanuel Baptist Crusaders'],
 		['14 Sept', '6:30p', '(JH Only) Wilmington High School', 'Milford Christian Bulldogs'],
