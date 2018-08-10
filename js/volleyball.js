@@ -5,7 +5,6 @@ $(function() {
 	
 	// Date, Time, Location, Opponent
 	var schedule = [
-		['18 Aug', '??:??', '(Varsity Only) Hillsboro Christian Academy, 849 South High St. Hillsboro, OH 45133', 'Hillsboro Tournament'],
 		['21 Aug', '5:30p', '(JH Only) Milford Christian Academy, 1365 Woodville Pike, Milford, OH 45150', 'Milford Christian Bulldogs'],
 		['25 Aug', '9:00a', 'Sports Plus, 10765 Reading Road in Sharonville, 45241', 'Trailblazers Tournament'],
 	 	['28 Aug', '6:30p', '(Varsity Only) Wilmington Christian Academy (Not WHS)', 'Emmanuel Baptist Crusaders'],
@@ -16,6 +15,7 @@ $(function() {
 		['11 Sept', '5:30p', 'Hillsboro Christian Academy, 849 South High St. Hillsboro, OH 45133', 'Hillsboro Christian Crusaders'],
 	 	['14 Sept', '6:00p', '(Varsity Only) Emmanuel Baptist Church, 495 Old 122 Rd, Lebanon, OH 45036', 'Emmanuel Baptist Crusaders'],
 		['14 Sept', '6:30p', '(JH Only) Wilmington High School', 'Milford Christian Bulldogs'],
+		['15 Sept', '11:15a', '(Varsity Only) Hillsboro Christian Academy, 849 South High St. Hillsboro, OH 45133', 'Hillsboro Tournament'],
 		['18 Sept', '5:30p', '1315 Dayton Ave NW, Washington Ct Hs, OH 43160', 'Fayette Christian Crusaders'],
 		['20 Sept', '5:30p', 'Miami County YMCA (Robinson Branch) 3060 S Co Rd 25A, Troy, OH 45373', 'Miami Valley Saints'],
 		['25 Sept', '6:30p', 'Wilmington High School', 'Cincinnati Trailblazers'],
