@@ -19,11 +19,11 @@ $(function() {
 		['20 Sept', '5:30p', 'Miami County YMCA (Robinson Branch) 3060 S Co Rd 25A, Troy, OH 45373', 'Miami Valley Saints'],
 		['21 Sept', '4:30p', '(Varsity Only) Milford Christian Academy, 1365 Woodville Pike, Milford, OH 45150', 'Milford Christian Bulldogs'],
 		['25 Sept', '6:30p', 'Wilmington High School', 'Cincinnati Trailblazers'],
-		['27 Sept', '5:30p', '(Varsity Only) Horizon Science Academy, 250 Shoup Mill Rd, Dayton, OH 45415', 'Horizon Science Academy '],
+		['27 Sept', '5:30p', '(Varsity Only) Horizon Science Academy, 250 Shoup Mill Rd, Dayton, OH 45415', 'Horizon Science Academy'],
 		['2 Oct', '6:30p', 'Wilmington High School', 'Hillsboro Christian Crusaders'],
 		['9 Oct', '6:30p', 'Wilmington High School', 'Miami Valley Saints'],
 		['16 Oct', '5:30p', 'Sports Plus, 10765 Reading Road in Sharonville, 45241', 'Cincinnati Trailblazers'],
-		['18 Oct', '6:30p', '(Varsity Only) Horizon Science Academy, 250 Shoup Mill Rd, Dayton, OH 45415', 'Horizon Science Academy ']
+		['18 Oct', '6:30p', '(Varsity Only) Wilmington High School', 'Horizon Science Academy']
 	];
 	//var schedule = [
 	//	['18 Aug', '4:30p', '(JV Only) Milford Christian Academy, 1365 Woodville Pike, Milford, OH 45150', 'Milford Christian Bulldogs'],
